@@ -1,1 +1,1 @@
-https://github.com/sukuanair/sfdx-travisci.git
+https://github.com/sukuanair/sfdx-travisci.git dfd
